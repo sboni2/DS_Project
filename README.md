@@ -1,6 +1,5 @@
 # DS_Project
-#Gender Distribution:
-![1_gender_distribution](https://github.com/user-attachments/assets/43d14eb2-151b-471e-9bfb-7c37c40fc324)
+#Gender Distribution: ![1_gender_distribution](https://github.com/user-attachments/assets/43d14eb2-151b-471e-9bfb-7c37c40fc324)
 
 Age Distribution:
 ![2_age_distribution](https://github.com/user-attachments/assets/4d3f53b3-2716-42e8-ba04-bfa593202400)
