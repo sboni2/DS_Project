@@ -1,6 +1,4 @@
-Here’s a concise **short note** on the **Mall Customer Segmentation** project:
 
----
 
 ## 🛍️ **Mall Customer Segmentation – Short Note**
 
